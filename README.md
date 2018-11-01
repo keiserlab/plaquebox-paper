@@ -1,5 +1,3 @@
-# plaquebox-paper
-
 # Interpretable Classification of Alzheimer's Disease Pathologies with a Convolutional Neural Network Pipeline
 ## bioRxiv 454793
 ## DOI: https://doi.org/10.1101/454793
