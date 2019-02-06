@@ -2,8 +2,9 @@
 ## bioRxiv 454793
 ## DOI: https://doi.org/10.1101/454793
 
-This repository accompanies the publication above. Specifically, we include notebooks to reproduce all image processing and processing, training of convolutional neural networks, confidence visualizations, and saliency maps.
+This repository accompanies the publication above. Specifically, we include notebooks to reproduce all image preprocessing and processing, training of convolutional neural networks, confidence visualizations, and saliency maps.
 
+## Systems requirements
 Code requires:
 ```
 python                    3.6.5                hc3d631a_2  
@@ -23,3 +24,9 @@ py-opencv                 3.4.1            py36h0676e08_1
 pyvips                    2.1.2                     <pip>
 tqdm                      4.23.4                   py36_0
 ```
+## Installation guide
+
+## Demo
+
+## Instructions for use
+
