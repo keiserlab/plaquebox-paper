@@ -63,21 +63,15 @@ The filepaths must be specified as indicated in each notebook to specify the loc
 
 ### 1. Preprocessing Steps
 
-**Notebook 1.1** describes color normalization on whole slide .svs images and subsequent tiling.
-**Notebook 1.2** describes the processing of the resultant tiles, performing blob detection and image cropping to create the unannotated plaques dataset.
-**Notebook 1.3** performs the dataset splits and applies a crude size filter to eliminate noisy plaque candidates.
+**Notebooks 1.1-1.3** describe necessary preprocessing steps, including: color normalization, whole slide image tiling, blob detection, and dataset splitting.
 
-### 2. Model Development, Training, and Testing
+**Notebooks 2.1 and 2.2** detail model development, training, and testing.
 
-**Notebook 2.1** walks through model training and development.
-**Notebook 2.2** applies the trained model to the test set.
+**Notebook 3** describes prediction confidence heatmaps.
 
+**Notebooks 4.1 and 4.2** describe feature interpretation studies, including feature occlusion and guided-grad cam studies.
 
-### 3. Visualization of Prediction Heatmaps
-
-**Notebook 2.1** walks through model training and development.
-**Notebook 2.2** applies the trained model to the test set.
-
+**Notebooks 5.1-5.3** describe whole slide scoring.
 
 
 
