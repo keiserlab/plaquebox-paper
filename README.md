@@ -15,7 +15,7 @@ pandas                    0.23.0           py36h637b7d7_0
 scikit-learn              0.19.1           py36h7aa7ec6_0     
 scikit-image              0.13.1           py36h14c3975_1    
 scipy                     1.1.0            py36hfc37229_0  
-pytorch                   0.4.0           py36_cuda8.0.61_cudnn7.1.2_1    pytorch   
+pytorch                   0.3.0            py35_cuda8.0.61_cudnn7.0.3hb362f6e_4    pytorch
 torchvision               0.2.1                    py36_1    pytorch   
 libopencv                 3.4.1                h1a3b859_1   
 opencv                    3.4.1            py36h6fd60c2_2  
