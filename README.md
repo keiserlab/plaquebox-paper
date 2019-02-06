@@ -52,5 +52,33 @@ git clone https://github.com/keiserlab/plaquebox-paper.git
 
 ## Instructions for use
 
+This repository contains 11 notebooks to reproduce the results from the linked paper. Each notebook includes details relevant to a portion of the described pipeline, with detailed descriptions at the top of each notebook. For results reproduction, these files are presented in sequential order and depend on the previous notebook.
+
+### Data Download
+Before running the code, it is necessary to download and unzip the raw datafiles from the corresponding Zenodo repository above.
+
+### Modifying Filepaths
+The filepaths must be specified as indicated in each notebook to specify the location of the downloaded data.
+
+
+### 1. Preprocessing Steps
+
+**Notebook 1.1** describes color normalization on whole slide .svs images and subsequent tiling.
+**Notebook 1.2** describes the processing of the resultant tiles, performing blob detection and image cropping to create the unannotated plaques dataset.
+**Notebook 1.3** performs the dataset splits and applies a crude size filter to eliminate noisy plaque candidates.
+
+### 2. Model Development, Training, and Testing
+
+**Notebook 2.1** walks through model training and development.
+**Notebook 2.2** applies the trained model to the test set.
+
+
+### 3. Visualization of Prediction Heatmaps
+
+**Notebook 2.1** walks through model training and development.
+**Notebook 2.2** applies the trained model to the test set.
+
+
+
 
 
