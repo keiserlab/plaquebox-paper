@@ -65,12 +65,19 @@ The filepaths must be specified as indicated in each notebook to specify the loc
 
 **Notebooks 1.1-1.3** describe necessary preprocessing steps, including: color normalization, whole slide image tiling, blob detection, and dataset splitting.
 
+### 2. Model Training and Development
+
 **Notebooks 2.1 and 2.2** detail model development, training, and testing.
+
+### 3. Visualizing Predictions
 
 **Notebook 3** describes prediction confidence heatmaps.
 
+### 4. Saliency Maps
+
 **Notebooks 4.1 and 4.2** describe feature interpretation studies, including feature occlusion and guided-grad cam studies.
 
+### 5. CERAD-like Scoring on Whole Slide Images
 **Notebooks 5.1-5.3** describe whole slide scoring.
 
 
