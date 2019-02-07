@@ -1,0 +1,63 @@
+WSI_ID,Group,CERAD,Cored_MTG,Diffuse_MTG,CAA_MTG
+NA4009-02_AB,train,none,1,2,0
+NA_4933_02_AB17-24,validation,none,0,1,0
+NA4137-02_AB,train,sparse,0,1,0
+NA_4865_02_AB1-40,train,sparse,0,0,0
+NA_4871_02_AB,train,sparse,0,0,0
+NA5001_2AB,train,sparse,1,2,3
+NA5003_2AB,train,sparse,1,1,2
+NA4144-02_AB,train,sparse,0,3,0
+NA4072-02_AB,train,moderate,1,2,0
+NA4129-2_AB,hold out,moderate,2,2,0
+NA4185-02_AB,train,moderate,2,2,0
+NA4471-02_AB,train,moderate,2,3,0
+NA4722-02_AB,train,moderate,0,2,3
+NA4749-02_AB,train,moderate,2,2,1
+NA_4883_02_AB,train,moderate,0,0,0
+NA4898-02_AB17-24,train,moderate,1,3,0
+NA4918-02_AB17-24,train,moderate,1,3,0
+NA_4930_02_AB14-24,validation,moderate,2,3,1
+NA4974-02_AB17-24,hold out,moderate,1,2,0
+NA5004_02_AB,train,moderate,1,3,0
+NA5005-02_AB,train,moderate,1,3,2
+NA_4882_02_AB,train,frequent,0,0,0
+NA4156-2_AB,hold out,frequent,1,2,0
+NA4053-02_AB,hold out,frequent,2,3,0
+NA4133_2_AB,hold out,frequent,2,3,0
+NA4229-02_AB,train,frequent,2,2,0
+NA4312-02_AB,train,frequent,2,3,0
+NA4167-2_AB,hold out,frequent,2,3,0
+NA4619-02_AB,train,frequent,2,3,1
+NA4711-02_AB,train,frequent,3,2,0
+NA4751-02_AB,train,frequent,3,2,3
+NA4757-02_AB,train,frequent,3,2,1
+NA4853-02_AB17-24,hold out,frequent,1,3,2
+NA4885-02_AB17-24,train,frequent,2,3,0
+NA_4888_02_AB17-24,train,frequent,1,3,0
+NA_4896_02_AB17-24,validation,frequent,2,3,1
+NA_4928_02_AB17-24,validation,frequent,2,3,1
+NA4951-02_AB17-24,train,frequent,1,3,0
+NA4953-02_AB17-24,hold out,frequent,2,3,1
+NA4954-02_AB17-24,hold out,frequent,1,2,0
+NA4964-02_AB17-24,hold out,frequent,2,3,1
+NA5002_2AB,train,frequent,1,2,1
+NA4256-02_AB,hold out,frequent,3,3,3
+NA4130-02_AB,hold out,sparse,2,2,3
+NA4582-02_AB,hold out,none,0,0,0
+NA4291-02_AB,hold out,sparse,1,1,0
+NA4944-02_AB17-24,hold out,none,0,1,0
+NA4195-02_AB,hold out,frequent,2,2,0
+NA4621-02_AB-001,hold out,none,0,0,0
+NA4370-02_AB,hold out,moderate,3,3,0
+NA4727-02_AB,hold out,none,1,1,0
+NA4945-02_AB17-24,hold out,sparse,0,3,0
+NA4695-02_AB,hold out,frequent,2,3,1
+NA4675-02_AB,hold out,frequent,3,3,1
+NA4963-02_AB17-24,hold out,frequent,2,3,0
+NA4542-02_AB,hold out,sparse,0,3,3
+NA4691-02_AB,hold out,moderate,1,3,1
+NA4669-02_AB,hold out,frequent,2,3,2
+NA4955-02_AB17-24,hold out,frequent,0,3,1
+NA4659-02_AB,hold out,frequent,2,3,0
+NA4684-02_AB,hold out,sparse,2,2,0
+NA4653-02_AB,hold out,moderate,1,1,0
