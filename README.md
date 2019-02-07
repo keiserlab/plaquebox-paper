@@ -50,7 +50,7 @@ git clone https://github.com/keiserlab/plaquebox-paper.git
 
 ## Demo
 
-Notebook [2.2) CNN Models - Test Cases](plaquebox-paper/2.2%29%20CNN%20Models%20-%20Test%20Cases.ipynb) is a demo that shows how to apply the trained CNN model on unseen dataset. Simply download the tiles from Zenodo repository and unzip it to the /data folder, then the notebook can be run through Jupyter.
+Notebook [2.2) CNN Models - Test Cases](https://github.com/keiserlab/plaquebox-paper/blob/master/2.2%29%20CNN%20Models%20-%20Test%20Cases.ipynb) is a demo that shows how to apply the trained CNN model on unseen dataset. Simply download the tiles from Zenodo repository and unzip it to the /data folder, then the notebook can be run through Jupyter.
 
 ## Instructions for use
 
