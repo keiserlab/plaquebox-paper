@@ -39,6 +39,7 @@ sudo apt-get install libvips
 Graphics Cards for Deep Learning - All deep learning models were trained using 4 X NVIDIA 1080 GPUs. As indicated above, PyTorch requires CUDA 8.0 and cuDNN 7.0 for compatibility.
 
 ## Installation guide
+
 We recommend creating a new Anaconda (https://www.anaconda.com/) environment with the dependencies above.
 
 This repository can be cloned directly through:
@@ -49,15 +50,18 @@ git clone https://github.com/keiserlab/plaquebox-paper.git
 
 ## Demo
 
+Notebook [2.2) CNN Models - Test Cases](https://github.com/keiserlab/plaquebox-paper) is a demo that shows how to apply the trained CNN model on unseen dataset. Simply download the tiles from Zenodo repository and unzip it to the /data folder, then the notebook can be run through Jupyter.
 
 ## Instructions for use
 
 This repository contains 11 notebooks to reproduce the results from the linked paper. Each notebook includes details relevant to a portion of the described pipeline, with detailed descriptions at the top of each notebook. For results reproduction, these files are presented in sequential order and depend on the previous notebook.
 
 ### Data Download
-Before running the code, it is necessary to download and unzip the raw datafiles from the corresponding Zenodo repository above.
+
+Before running the code, it is necessary to download the raw datafiles from the corresponding Zenodo repository above and unzip the files to the /data folder.
 
 ### Modifying Filepaths
+
 The filepaths must be specified as indicated in each notebook to specify the location of the downloaded data.
 
 
